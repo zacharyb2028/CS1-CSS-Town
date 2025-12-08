@@ -1,1 +1,13 @@
-
+body {
+    background: url(https://cdn.architextures.org/textures/24/5/sand-j9sy8a.jpg);
+    background-size:72%;
+    width: 100%;
+    height: 100%;
+    margin:0;
+    padding:0;
+}
+#sky {
+    background: linear-gradient(rgb(110, 9, 149), rgb(93, 16, 166), rgb(66, 160, 243))
+    ;
+    height: 35%
+}
