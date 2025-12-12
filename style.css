@@ -7,7 +7,11 @@ body {
     padding:0;
 }
 #sky {
-    background: linear-gradient(rgb(110, 9, 149), rgb(93, 16, 166), rgb(66, 160, 243))
+    background: linear-gradient(rgb(32, 34, 168), rgb(119, 113, 199), rgb(79, 40, 209))
     ;
-    height: 35%
+    height: 40%;
+}
+#slot-machine {
+    height: 150px;
+    width: 250px;
 }
