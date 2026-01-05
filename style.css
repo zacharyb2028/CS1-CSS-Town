@@ -40,6 +40,8 @@ body {
     top: 450px;
     left:-30px;
 }
-#Ferris-Wheel {
-
+#ferris-wheel {
+    height: 100px;
+    width: 100px;
 }
+
